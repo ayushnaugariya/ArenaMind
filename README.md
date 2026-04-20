@@ -103,7 +103,7 @@ arena-mind-ai/
 
 ## 👨‍💻 Author
 
-Built with ❤️ for **Prompt Wars Virtual**
+Built with ❤️ 
 #BuildwithAI #PromptWarsVirtual
 
 *ArenaMind AI — Making Every Fan's Journey Seamless* 🏟️
