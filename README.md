@@ -569,7 +569,7 @@ arena-mind-ai/
 
 ## 👨‍💻 Author
 
-Built with ❤️ for **Prompt Wars Virtual**
-#BuildwithAI #PromptWarsVirtual
+Built with ❤️ by **Ayush Naugariya**
+
 
 *ArenaMind AI — Making Every Fan's Journey Seamless* 🏟️
